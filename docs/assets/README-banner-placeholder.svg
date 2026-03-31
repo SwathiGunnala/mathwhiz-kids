@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0c4a6e"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="320" fill="url(#bg2)" rx="12"/>
+  <text x="400" y="150" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="22">MathWhiz Kids</text>
+  <text x="400" y="190" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="14">Replace with a screenshot (child or parent flow)</text>
+</svg>
