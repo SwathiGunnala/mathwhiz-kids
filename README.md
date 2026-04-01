@@ -10,7 +10,7 @@ MathWhiz Kids is an **AI-assisted math learning** experience for **elementary sc
 
 ## Live demo
 
-**[Open the published app on Replit](https://replit.com/@YOUR_USERNAME/mathwhiz-kids)** — replace with your **public Replit URL** (Replit → your Repl → **Publish**).
+**[Open the published app on Replit](https://mathspark.replit.app/)** — live app link.
 
 ## Problem
 
